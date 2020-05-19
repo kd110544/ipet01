@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/menu_test"
+        android:title="開發中"
+        android:icon="@drawable/ic_build_black_24dp"
+        />
+    <item
+        android:id="@+id/menu_camera"
+        android:title="AI相機"
+        android:icon="@drawable/ic_camera_alt_black_24dp"
+        />
+
+
+
+    <item
+        android:id="@+id/menu_pair"
+        android:title="配對"
+        android:icon="@drawable/ic_pets_black_24dp"
+        />
+    <item
+        android:id="@+id/menu_Me"
+        android:title="關於我"
+        android:icon="@drawable/ic_person_black_24dp"
+        />
+    <item
+        android:id="@+id/menu_like"
+        android:title="喜歡的"
+        android:icon="@drawable/ic_favorite_black_24dp"
+        />
+
+
+
+</menu>

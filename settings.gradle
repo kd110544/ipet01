@@ -1,0 +1,2 @@
+rootProject.name='ipet01'
+include ':app'

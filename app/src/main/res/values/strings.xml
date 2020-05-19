@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">ipet01</string>
+
+    <string-array name="city">
+        <item>基隆市</item>
+        <item>台北市</item>
+        <item>新北市</item>
+        <item>新竹市</item>
+        <item>新竹縣</item>
+        <item>苗栗縣</item>
+        <item>台中市</item>
+        <item>彰化縣</item>
+        <item>南投縣</item>
+        <item>雲林縣</item>
+        <item>嘉義市</item>
+        <item>嘉義縣</item>
+        <item>台南市</item>
+        <item>高雄市</item>
+        <item>屏東縣</item>
+        <item>台東縣</item>
+        <item>花蓮縣</item>
+        <item>宜蘭縣</item>
+        <item>澎湖縣</item>
+        <item>連江縣</item>
+    </string-array>
+
+    <string-array name="userPetCount">
+        <item>1隻</item>
+        <item>2隻</item>
+        <item>3隻</item>
+        <item>4隻</item>
+        <item>5隻</item>
+        <item>6隻</item>
+        <item>7隻</item>
+        <item>8隻</item>
+        <item>9隻</item>
+        <item>10隻</item>
+    </string-array>
+
+</resources>
